@@ -1,0 +1,1 @@
+String greatingNewCustomer(String name) => 'Hello $name';
