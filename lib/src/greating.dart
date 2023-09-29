@@ -1,1 +1,1 @@
-String greatingNewCustomer(String name) => 'Hello $name';
+String greatingNewCustomer(String name) => 'Hello $name nice to meet you!';
